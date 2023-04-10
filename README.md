@@ -1,3 +1,3 @@
-# e-library-PRO-C72.1
+# PRO-C72-E-Library-SA-boilerplate
 
-boiler plate for student activity
+Class C68 Class 72 student activity boilerplate code
